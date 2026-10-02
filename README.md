@@ -5,7 +5,7 @@
 **A clean, real-time Kick chat viewer with a modern glass UI.**
 
 [![English](https://img.shields.io/badge/Language-English-53fc18?style=for-the-badge)](#-english)
-[![فارسی](https://img.shields.io/badge/زبان-فارسی-53fc18?style=for-the-badge)](#-فارسی)
+[![Persian](https://img.shields.io/badge/زبان-فارسی-53fc18?style=for-the-badge)](#-persian)
 
 </div>
 
@@ -53,27 +53,6 @@ https://doumeem.github.io/chat/?streamer=USERNAME
 | `?unknown`  | Shows the "User Not Found" error screen  |
 | `?connection` | Shows the "Connection Failed" screen   |
 
-### 🛠️ Tech Stack
-
-- **HTML / CSS / JavaScript** — no build step, no framework
-- **jQuery 3.7** — DOM manipulation
-- **Kick API** — channel, messages, livestream data
-- **Pusher WebSocket** — real-time chat events
-- **7TV API** — third-party emote set
-- **Rubik** — the typeface
-
-### 📦 Deployment
-
-Just drop the single HTML file anywhere:
-
-- GitHub Pages
-- Netlify / Vercel
-- Cloudflare Pages
-- Any static host
-- Or even open it locally with `file://`
-
-No server, no build, no config.
-
 ### ⚠️ Notes
 
 - The app uses **Kick's public API** — if Kick changes endpoints, things may break.
@@ -88,7 +67,7 @@ If you enjoy this, consider supporting the developer:
 
 ---
 
-## 🇮🇷 فارسی
+## 🇮🇷 Persian
 
 <div dir="rtl">
 
@@ -115,10 +94,10 @@ If you enjoy this, consider supporting the developer:
 
 ### 🖥️ نحوه استفاده
 
-۱. صفحه رو باز کن.
-۲. یوزرنیم کیک رو در فیلد ورودی وارد کن.
-۳. روی **Open Chat** بزن.
-۴. چت رو به صورت زنده تماشا کن.
+1. صفحه رو باز کن.
+2. یوزرنیم کیک رو در فیلد ورودی وارد کن.
+3. روی **Open Chat** بزن.
+4. چت رو به صورت زنده تماشا کن.
 
 همچنین می‌تونی مستقیم به چت یک استریمر بری:
 https://doumeem.github.io/chat/?streamer=USERNAME
@@ -131,27 +110,6 @@ https://doumeem.github.io/chat/?streamer=USERNAME
 | `?streamer`  | چت یوزر مورد نظر رو در کیک باز می‌کنه     |
 | `?unknown`   | صفحه‌ی خطای «کاربر پیدا نشد» رو نشون می‌ده |
 | `?connection`| صفحه‌ی «اتصال ناموفق» رو نشون می‌ده        |
-
-### 🛠️ تکنولوژی‌ها
-
-- **HTML / CSS / JavaScript** — بدون بیلد، بدون فریمورک
-- **jQuery 3.7** — دستکاری DOM
-- **Kick API** — اطلاعات کانال، پیام‌ها، لایو
-- **Pusher WebSocket** — رویدادهای چت به صورت لحظه‌ای
-- **7TV API** — ست ایموت‌های ثالث
-- **Rubik** — فونت
-
-### 📦 دیپلوی
-
-فقط فایل HTML رو هر جایی آپلود کن:
-
-- GitHub Pages
-- Netlify / Vercel
-- Cloudflare Pages
-- هر هاست استاتیک دیگه
-- یا حتی به صورت لوکال با `file://`
-
-بدون سرور، بدون بیلد، بدون تنظیمات.
 
 ### ⚠️ نکات
 
