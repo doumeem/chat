@@ -5,7 +5,7 @@
 **A clean, real-time Kick chat viewer with a modern glass UI.**
 
 [![English](https://img.shields.io/badge/Language-English-53fc18?style=for-the-badge)](#-english)
-[![Persian](https://img.shields.io/badge/زبان-فارسی-53fc18?style=for-the-badge)](#-persian)
+[![Persian](https://img.shields.io/badge/Language-English-53fc18?style=for-the-badge)](#-persian)
 
 </div>
 
